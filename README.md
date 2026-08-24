@@ -72,7 +72,7 @@ Add __[https://apt.fouadraheb.com](https://apt.fouadraheb.com)__ to your Cydia/Z
     | [WA Business][SMB-TS] | net.whatsapp.WhatsAppSMB | 26.32.75 | 1.3.22 |
     | [WhatsApp Duplicate][WA-TS-Duplicate] | com.fouadraheb.watusi | 26.32.75 | 1.3.22 |
     | [WA Business Duplicate][SMB-TS-Duplicate] | com.fouadraheb.watusiSMB | 26.32.75 | 1.3.22 |
-
+    
     <sup>Stalky, OnlineNotify, and ContactSync tweaks are disabled by default and can be enabled from inside Watusi Settings.</sup>
 
     If you have issues with notifications, try using the below TrollStore IPAs that doesn't inject into WhatsApp extensions. This issue used to happen a few years ago on jailbroken devices (I wrote [this blog](https://blog.fouadraheb.com/posts/service-extension-notifications/#how-they-are-related) post about it back then)
@@ -80,6 +80,7 @@ Add __[https://apt.fouadraheb.com](https://apt.fouadraheb.com)__ to your Cydia/Z
     | ------------------ |:---------:|:------:|:------:|
     | [WhatsApp][WA-TS-NoPlugins] | net.whatsapp.WhatsApp | 26.32.75 | 1.3.22 |
     | [WA Business][SMB-TS-NoPlugins] | net.whatsapp.WhatsAppSMB | 26.32.75 | 1.3.22 |
+    
 
 ## Sideloading Guides
 
